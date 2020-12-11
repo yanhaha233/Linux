@@ -1,5 +1,7 @@
 ## Linux 常用命令
 
+### 阅读刘遄 《Linux 就该这么学》整理
+
 ### man --help man -h
 
 帮助命令
